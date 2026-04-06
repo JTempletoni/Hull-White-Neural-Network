@@ -1,3 +1,6 @@
+This code was written as part of my postgraduate dissertation under time pressure and reflects academic rather than production coding practice.The pipeline project at https://github.com/JTempletoni/Uk-Energy-Modelling represents my current approach to code structure and documentation. 
+
+
 This contains 4 python code files, each one trains a different neural network (NN). Each one with the aim of predicting european call option prices. 
 
 BS Model trains a NN with the Black-Scholes model using time to expiry (T) and moneyness (S/K).
